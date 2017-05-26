@@ -3,7 +3,7 @@
 ## GardenIt
 
 * Gardening Application
-* Edraelan Ayuban (10161227), Arthur Santos, Philip Borowoy, William Hong (10161808).
+* Edraelan Ayuban (10161227), Arthur Santos, Philip Borowoy (30021495), William Hong (10161808).
 * T1 Kody Dillman
 
 ## Project Idea
