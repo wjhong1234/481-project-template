@@ -1,6 +1,6 @@
-# CPSC 481 - Tutorial [1] - Group [2]
+# CPSC 481 - Tutorial 1 - Group 2
 
-## Project Title
+## GardenIt
 
 * GardenIt
 * Edraelan Ayuban (10161227), Arthur Santos, Philip Borowoy, William Hong (10161808).
