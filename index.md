@@ -1,10 +1,10 @@
-# CPSC 481 - Tutorial [X] - Group [Y]
+# CPSC 481 - Tutorial [1] - Group [2]
 
 ## Project Title
 
-* Title
-* Team Members (names, IDs)
-* Tutorial Number and TA
+* GardenIt
+* Edraelan Ayuban (10161227), Arthur Santos, Philip Borowoy, William Hong (10161808).
+* T1 Kody Dillman
 
 ## Project Idea
 
