@@ -10,7 +10,7 @@
 
 ![](https://wjhong1234.github.io/481-project-template/HCI%20P2%20Pictures/Storyboard.JPG "Storyboard")
 
-Note: The goal of this project is to practice and experience designing and prototyping an application. Implementation was unnecessary for this course, however, we planned this project and went through the design phases as if we had the intention of creating a full application.
+**Note**: The goal of this project is to practice and experience designing and prototyping an application. Implementation was unnecessary for this course, however, we planned this project and went through the design phases as if we had the intention of creating a full application.
 
 Garden Grove is a gardening app that will aid in building and maintaining a successful garden. By removing the intimidation of starting a garden we hope to get more people gardening, and make it fun and easy in the process. We will accomplish this by giving our users information convenience, plant organization, and maintenance scheduling. Our app will be used by people who are looking to start a new garden and users that are looking to better manage their existing garden. We expect users to use our application on the go, at home in the garden, or while thinking about their plants anywhere. Our goal is to take the research and guess work out of gardening by having information readily available for users, focused on the plants that the users have in their personal gardens, or are interested in.
 
